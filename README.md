@@ -8,3 +8,6 @@
 This repository includes a spreadsheet obtained via public records request from the Chicago Administrative Hearings Department
 detailing vehicle impounds between March 2017 and March 2018, including the alleged violation, location, final disposition
 of the case, and total fine imposed. A Jupyter notebook also shows how we arrived at our figures.
+
+# Update
+On June 27, 2018 I uploaded an additional spreadsheet, impounds12-17.xls, that I received from the Chicago Administrative Hearings Department. It includes data on impound cases from 2012 through 2017, showing a total of $114 million in impound fines imposed over that time period. A separate Jupyter notebook showing our work on that spreadsheet has also been uploaded.
